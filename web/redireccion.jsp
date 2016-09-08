@@ -1,0 +1,1 @@
+<% response.sendRedirect("/testSpringUtf/vistas/index.jsp"); %>
